@@ -1,4 +1,4 @@
-# The small project
+# Small projects
   
   * Play with Two Dimentional Array
   
