@@ -1,4 +1,4 @@
-### C++ Projects ###
+### C++ Projects
 
 PCC CS2 and CS3A projects 
 
@@ -6,4 +6,5 @@ PCC CS2 and CS3A projects
 
 # Exercise: the basice practice on different topics
   * Array
+  * OOP
   
