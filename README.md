@@ -6,5 +6,6 @@ PCC CS2 and CS3A projects
 
 # Exercise: the basice practice on different topics
   * Array
+  * Binary / Decimal expression conversion
   * OOP
   
