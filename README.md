@@ -1,4 +1,5 @@
-# C-Projects
+## C++ Projects
+
 PCC CS2 and CS3A projects 
 
 5/10/2016
