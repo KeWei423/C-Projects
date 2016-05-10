@@ -1,4 +1,4 @@
-# Game of life:
+# Game of life
   
 # Project Description:
 The goal of this project is to create a simulation of John Conway’s Game of Life using two-dimensional arrays. Each element of the array represents a cell that is either alive or dead. Once an initial state is set up, the program will generate new generations based on the following Rules of the Game:
